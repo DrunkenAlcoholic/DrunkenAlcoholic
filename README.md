@@ -15,9 +15,8 @@ A self-taught programmer with a journey spanning from Windows to Linux. Started 
 ## Get in touch :coffee:
 
 - [Personal Blog](https://cheesydoodle.com)
-- [Twitter]()
-- [Medium]()
-- [LinkedIn]()
+- [irc]()
+- [discord]()
 
  
 ## Stats
