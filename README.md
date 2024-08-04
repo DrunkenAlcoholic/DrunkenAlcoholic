@@ -2,7 +2,7 @@
 
 
 
-A self-taught programmer with a journey spanning from Windows to Linux. Started with Delphi, diving deep into reverse engineering and encryption analysis. Since embracing the open-source world in 2012, I've expanded my learnings to include Free Pascal, Bash scripting, and Python. Currently exploring the Nim language while continuously with Pascal, Python, Bash, and dabbling in JavaScript. Always eager to learn and contribute to the open-source community, I try to blend my love for classic languages like Pascal with modern tools and practices.
+A self-taught hobbyist programmer with a journey spanning from Windows to Linux. Started with Delphi, diving deep into reverse engineering and encryption analysis. Since embracing the open-source world in 2012, I've expanded my learnings to include Free Pascal, Bash scripting, and Python. Currently exploring the Nim language while continuously with Pascal, Python, Bash, and dabbling in JavaScript. Always eager to learn and contribute to the open-source community, I try to blend my love for classic languages like Pascal with modern tools and practices.
 
 <br />
 <code><img height="20" alt="Nim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png"></code>
